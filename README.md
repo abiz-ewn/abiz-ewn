@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **abiz-ewn/abiz-ewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Aspiring Software Engineer | Computer Science Major @ GSU | AI & Machine Learning Enthusiast**

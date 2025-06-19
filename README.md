@@ -30,13 +30,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abigailewnetu&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abigailewnetu&layout=compact&theme=radical" height="160"/>
-</p>
+--
 
 ---

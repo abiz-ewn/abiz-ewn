@@ -4,7 +4,7 @@
 
 ---
 
-🌟 Welcome to my GitHub! I'm **Abigail E.**, a dedicated Computer Science student at **Georgia State University** working toward becoming a **Software Engineer**. I'm especially passionate about **Artificial Intelligence**, **Machine Learning**, and building meaningful, data-driven applications.
+🌟 Welcome to my GitHub! I'm **Abigail E.**, a dedicated Computer Science student at **Georgia State University** working toward becoming a **Software Engineer**. I'm passionate about **Artificial Intelligence**, **Machine Learning**, and building meaningful, data-driven applications.
 
 ---
 

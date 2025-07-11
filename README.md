@@ -13,11 +13,11 @@
 - 🎓 **Major**: Computer Science  
 - 🏫 **University**: Georgia State University  
 - 🤖 **Interests**: Software Engineering, AI/ML, Data Science, Open Source  
-- 🌱 **Currently Learning**: Python, Machine Learning with scikit-learn & TensorFlow, Web Development  
+- 🌱 **Currently Learning**: Python, JavaScript (React and Node.js), Machine Learning with scikit-learn & TensorFlow, Web Development  
 - 💡 **Future Goals**:  
   - Build impactful AI-driven applications  
   - Contribute to open-source ML projects  
-  - Land an internship or junior role in Software Engineering
+  - Land an internship role in Software Engineering
 
 ---
 
@@ -30,6 +30,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
---
+
 
 ---

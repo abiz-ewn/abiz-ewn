@@ -1,6 +1,6 @@
 
 
-**Aspiring Software Engineer | Computer Science Major @ GSU | AI & Machine Learning Enthusiast**
+#**Aspiring Software Engineer | Computer Science Major @ GSU | AI & Machine Learning Enthusiast**
 
 ---
 

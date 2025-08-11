@@ -1,68 +1,68 @@
 
 
-# 👩‍💻 Abigail E.  
-### *Aspiring Software Engineer | Computer Science Major @ Georgia State University | AI & Machine Learning Enthusiast*
+<h1 align="left">Hey 👋 What's up?</h1>
 
----
+###
 
-🌟 **Welcome to my GitHub!**  
-I'm **Abigail E.**, a passionate and driven Computer Science undergraduate at **Georgia State University**, committed to building intelligent, user-focused, and impactful software solutions. I specialize in **Artificial Intelligence**, **Machine Learning**, and **Data-Driven Web Applications**, with a growing portfolio of academic and personal projects.
+<p align="left">I'm Abigail E., a Computer Science major at Georgia State University with a big passion for AI and Machine Learning. I love building smart and user-centered solutions, and I'm always on the lookout for exciting tech projects and learning opportunities. Outside of code, I enjoy exploring data, reading about emerging tech, and trying new visualization tools. Let’s connect and build something impactful together!</p>
 
----
+###
 
-## 🚀 About Me
+<h2 align="left">About me</h2>
 
-- 🎓 **Major**: Computer Science  
-- 🏫 **University**: Georgia State University  
-- 🧠 **Focus Areas**:  
-  - Software Engineering  
-  - Artificial Intelligence & Machine Learning  
-  - Data Science & Statistical Computing  
-  - Full-Stack Web Development  
+###
 
-- 🔍 **Currently Exploring**:  
-  - **Python** for data science and AI *(NumPy, Pandas, scikit-learn, TensorFlow)*  
-  - **R Programming** for statistical modeling, data visualization, and machine learning *(tidyverse, ggplot2, caret)*  
+<p align="left">🎓 I’m majoring in Computer Science @ Georgia State University<br>🧠 I'm focused on AI, Machine Learning, Data Science, and Full-Stack Web Development<br>📚 Currently learning: Python for AI, R for data science and statistical modeling<br>🎯 Goals: Contribute to open-source projects, land an internship in software or machine learning, and develop AI-powered applications<br>🎲 Fun fact: I enjoy visualizing data as much as analyzing it!</p>
 
-- 💡 **Future Aspirations**:  
-  - Build impactful AI-powered applications for real-world challenges  
-  - Contribute to open-source AI and web projects  
-  - Land a Software Engineering or Machine Learning internship  
+###
 
----
+<h2 align="left">I code with</h2>
 
-## 🧰 Tech Stack & Tools
+###
 
-### 🗣️ **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo" />
+</div>
 
-### 🔧 **Frameworks & Libraries**
-- **Python**: `pandas`, `numpy`, `TensorFlow`, `matplotlib`, `Flask`  
-- **R**: `tidyverse`, `ggplot2`, `dplyr` 
-- **JavaScript**:  `Node.js` 
+###
 
-### 🛠️ **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)  
+<h2 align="left">Tools & Platforms</h2>
 
----
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />
+</div>
 
-## 🌍 Let’s Connect
+###
 
-If you're working on AI, data science, or full-stack projects, feel free to reach out or collaborate. I’m always open to new ideas and opportunities!
+<h2 align="left">Let’s Connect 🌍</h2>
 
-📬 [LinkedIn]((https://www.linkedin.com/in/abigail-e/))
+###
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/abigail-e/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+</div>
+
 
 Thanks for stopping by my GitHub! Feel free to explore my projects💻✨

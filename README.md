@@ -64,5 +64,14 @@
   </a>
 </div>
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbigailEwnetu&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbigailEwnetu&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
 
 Thanks for stopping by my GitHub! Feel free to explore my projects💻✨

@@ -73,5 +73,5 @@ Let’s connect and build something impactful together! </p>
   </a>
 </div>
 
-Thanks for stopping by my GitHub! Feel free to explore my projects💻✨
+<br>Thanks for stopping by my GitHub! Feel free to explore my projects💻✨
 

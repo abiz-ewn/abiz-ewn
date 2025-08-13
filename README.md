@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 I’m majoring in Computer Science @ Georgia State University<br>🧠 I'm focused on AI, Machine Learning, Data Science, and Full-Stack Web Development<br>📚 Currently learning: Python for AI, R for data science and statistical modeling<br>🎯 Goals: Contribute to open-source projects, land an internship in software or machine learning, and develop AI-powered applications<br>🎲 Fun fact: I enjoy visualizing data as much as analyzing it!</p>
+<p align="left">🎓 I’m majoring in Computer Science @ Georgia State University<br>🧠 I'm focused on AI, Machine Learning, Data Science, and Full-Stack Web Development<br>📚 Currently learning: Python for AI, R for data science and statistical modeling<br>🎯 Goals: Contribute to open-source projects, land an internship in software or machine learning, and develop AI-powered applications<br></p>
 
 ###
 

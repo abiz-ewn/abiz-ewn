@@ -17,11 +17,11 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbigailEwnetu&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbigailEwnetu&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 ###

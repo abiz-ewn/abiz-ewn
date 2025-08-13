@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I'm Abigail Ewnetu, a Computer Science major at Georgia State University with a passion for Data Science an ML. I enjoy building smart and user-centered solutions, and I'm always on the lookout for exciting tech projects and learning opportunities. Outside of code, I enjoy reading books, exploring data, and trying new visualization tools. Let’s connect and build something impactful together!</p>
+<p align="left">I'm Abigail Ewnetu, a Computer Science major at Georgia State University with a passion for Data Science and ML. I enjoy building smart and user-centered solutions, and I'm always on the lookout for exciting tech projects and learning opportunities. 
+Let’s connect and build something impactful together! </p>
 
 ###
 
@@ -11,18 +12,6 @@
 ###
 
 <p align="left">🎓 I’m majoring in Computer Science @ Georgia State University<br>🧠 I'm focused on AI, Machine Learning, Data Science, and Full-Stack Web Development<br>📚 Currently learning: Python for AI, R for data science and statistical modeling<br>🎯 Goals: Contribute to open-source projects, land an internship in software or machine learning, and develop AI-powered applications<br></p>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
 
 ###
 
@@ -63,7 +52,17 @@
 </div>
 
 ###
+<h2 align="left">📊 GitHub Stats</h2>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+###
 <h2 align="left">Let’s Connect 🌍</h2>
 
 ###

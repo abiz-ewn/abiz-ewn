@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Hello there, Welcome 👋</h1>
 
 ###
@@ -13,6 +11,18 @@
 ###
 
 <p align="left">🎓 I’m majoring in Computer Science @ Georgia State University<br>🧠 I'm focused on AI, Machine Learning, Data Science, and Full-Stack Web Development<br>📚 Currently learning: Python for AI, R for data science and statistical modeling<br>🎯 Goals: Contribute to open-source projects, land an internship in software or machine learning, and develop AI-powered applications<br></p>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbigailEwnetu&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbigailEwnetu&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
 
 ###
 
@@ -64,14 +74,5 @@
   </a>
 </div>
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbigailEwnetu&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbigailEwnetu&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
 Thanks for stopping by my GitHub! Feel free to explore my projects💻✨
+

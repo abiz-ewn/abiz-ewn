@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Abigail Ewnetu, a Computer Science major at Georgia State University with a big passion for AI and Machine Learning. I love building smart and user-centered solutions, and I'm always on the lookout for exciting tech projects and learning opportunities. Outside of code, I enjoy exploring data, reading about emerging tech, and trying new visualization tools. Let’s connect and build something impactful together!</p>
+<p align="left">I'm Abigail Ewnetu, a Computer Science major at Georgia State University with a passion for Data Science an ML. I enjoy building smart and user-centered solutions, and I'm always on the lookout for exciting tech projects and learning opportunities. Outside of code, I enjoy reading books, exploring data, and trying new visualization tools. Let’s connect and build something impactful together!</p>
 
 ###
 

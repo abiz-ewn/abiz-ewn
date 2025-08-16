@@ -59,7 +59,7 @@ Let’s connect and build something impactful together! </p>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=default" alt="Top Languages" color = "purple" />
 </p>
 
 ###

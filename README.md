@@ -64,13 +64,12 @@ Let’s connect and build something impactful together! </p>
 ###
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=default&hide_border=true" alt="Abigail's GitHub Stats" />
-</p>
+<div align="left" style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=github_dark&hide_border=true" alt="Abigail's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
 
 ###
 <h2 align="left">Let’s Connect 🌍</h2>

@@ -52,7 +52,7 @@ Let’s connect and build something impactful together! </p>
 </div>
 
 ###
-<h2 align="left">📊 Programming Languages Used</h2>
+<h2 align="left">## 💻 Coding Languages </h2>
 
 <div align="left" style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />

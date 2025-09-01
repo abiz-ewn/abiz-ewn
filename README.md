@@ -4,7 +4,7 @@
 ---
 
 <p align="left">
-Hi, I'm <strong>Abigail Ewnetu</strong>, a passionate Computer Science major at Georgia State University specializing in Data Science and Machine Learning. I love building smart, user-centered solutions and am always eager to learn and collaborate on exciting tech projects.
+Hi, I'm <strong>Abigail Ewnetu</strong>, a passionate Computer Science major at Georgia State University. I love building smart, user-centered solutions and am always eager to learn and collaborate on exciting tech projects.
 <br><br>
 Let’s connect and create something impactful together! 🚀
 </p>

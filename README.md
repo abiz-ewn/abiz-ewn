@@ -47,32 +47,6 @@ Let’s connect and create something impactful together! 🚀
 
 ---
 
-<h2 align="left">💻 Top Coding Languages</h2>
-
-<div align="left" style="width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
-</div>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="left" style="width: 450px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-</div>
-
----
-
-<h2 align="left">Let’s Connect 🌍</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abigail-e/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
 <h2 align="left">🔥 GitHub Contributions Streak</h2>
 
 <div align="left" style="width: 450px;">
@@ -85,7 +59,7 @@ Let’s connect and create something impactful together! 🚀
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abigail-e/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="90" alt="LinkedIn" />
   </a>
 </div>
 

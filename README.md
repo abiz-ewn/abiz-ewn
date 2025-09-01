@@ -59,7 +59,7 @@ Let’s connect and create something impactful together! 🚀
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abigail-e/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="90" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="90" alt="LinkedIn" />
   </a>
 </div>
 

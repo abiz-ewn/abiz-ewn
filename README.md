@@ -73,6 +73,4 @@ Let’s connect and create something impactful together! 🚀
 
 ---
 
-<br>Feel free to explore my projects 💻✨
-
 

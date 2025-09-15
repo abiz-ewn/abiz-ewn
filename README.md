@@ -6,8 +6,7 @@
 <p align="left">
 💻 <strong>Computer Science major @ Georgia State University</strong><br>
 🚀 Passionate about building <strong>smart, user-centered applications</strong> that solve real problems.<br>
-🌱 Always learning, always experimenting — from <strong>AI-powered chatbots</strong> to <strong>interactive coding tools</strong>.<br>
-🏅 Recognized as a <strong>CodePath Scholar</strong> and multiple-time <strong>President’s List honoree</strong>.
+🌱 Always learning, always experimenting <strong>interactive coding tools</strong>.<br>
 </p>
 
 ---
@@ -15,10 +14,9 @@
 <h2 align="left">⚡ About Me</h2>
 
 <p align="left">
-🎓 Pursuing B.A. in Computer Science @ GSU (GPA: 3.7)<br>
-🧩 Interests: Software Engineering, Web Dev, Data-Driven Solutions<br>
+🎓 Pursuing B.A. in Computer Science @ GSU <br>
+🧩 Interests: Software Engineering, Web Development, Data-Driven Solutions<br>
 📚 Currently learning: <strong>SQL, FastAPI, and advanced Python applications</strong><br>
-🎯 Goals: Contribute to impactful open-source projects, land a SWE internship, and innovate with AI + web technologies
 </p>
 
 ---

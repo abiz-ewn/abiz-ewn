@@ -14,7 +14,7 @@
 <h2 align="left">⚡ About Me</h2>
 
 <p align="left">
-🤝 Collaborative engineer and fellow in CodePath Emerging Engineers Empowerment, ColorStack, and Rewriting the Code communities<br>
+🤝 Collaborative engineer and fellow in CodePath, ColorStack, and Rewriting the Code communities<br>
 🧩 Interests: Software Engineering, Web Development, Data-Driven Solutions<br>
 📚 Currently learning: <strong>SQL, FastAPI, and advanced Python applications</strong><br>
 </p>

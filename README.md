@@ -43,13 +43,7 @@
 
 
 ## 📊 GitHub Stats
-![](https://raw.githubusercontent.com/abiz-ewn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/abiz-ewn/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-## 🧠 Top Languages
-![](https://raw.githubusercontent.com/abiz-ewn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/abiz-ewn/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=transparent)
 
 
 ## 📫 Let's Connect!

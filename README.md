@@ -1,4 +1,4 @@
-# Hi there, I'm Abigail 👋
+  # Hi there, I'm Abigail 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+Georgia+State+University;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Scholar" alt="Typing SVG" />
@@ -8,36 +8,6 @@
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-
-
-## 🚀 About Me
-
-
-<div class="developer-card">
-  <h2>Abigail Ewnetu</h2>
-  <span class="badge">CS Student & Researcher</span>
-  
-  <div class="info">
-    <p><strong>University:</strong> Georgia State University</p>
-    <p><strong>GPA:</strong> 3.7/4.0</p>
-    <p><strong>Focus:</strong> AI/ML, Full-Stack Development, Computer Vision</p>
-    <p><strong>Current Research:</strong> MORSE Studio Lab - Behavioral Analysis</p>
-  </div>
-  
-  <div class="achievements">
-    <span>🎓 Math Path Scholar</span>
-    <span>🏆 2x President's List</span>
-    <span>💡 CodePath Scholar</span>
-  </div>
-  
-  <button onclick="collaborate()">Let's Build Together!</button>
-</div>
-
-
-💻 Passionate about merging mathematics, AI, and elegant code to solve real-world problems  
-🌱 Currently exploring deep learning, full-stack frameworks, and mathematical modeling
-
 
 
 ## 🛠️ Tech Stack

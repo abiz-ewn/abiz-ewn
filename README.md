@@ -1,4 +1,3 @@
-
 Hi there, I'm Abigail 👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Georgia+State University;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Scholar" alt="Typing SVG" />
@@ -6,26 +5,31 @@ Hi there, I'm Abigail 👋
 <p align="center">
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ewnetuabigail@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 
 
 
-class Developer:
-    def __init__(self):
-        self.name = "Abigail Ewnetu"
-        self.role = "CS Student & Researcher"
-        self.university = "Georgia State University"
-        self.gpa = 3.7
-        self.interests = ["AI/ML", "Full-Stack Dev", "Computer Vision"]
-        self.current_work = "MORSE Studio Lab - Behavioral Analysis"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
 
-me = Developer()
-me.say_hi()
+
+<div class="developer-card">
+  <h2>Abigail Ewnetu</h2>
+  <span class="badge">CS Student & Researcher</span>
+  <div class="info">
+    <p><strong>University:</strong> Georgia State University</p>
+    <p><strong>GPA:</strong> 3.7/4.0</p>
+    <p><strong>Focus:</strong> AI/ML, Full-Stack Development, Computer Vision</p>
+    <p><strong>Current Research:</strong> MORSE Studio Lab - Behavioral Analysis</p>
+  </div>
+    
+  <div class="achievements">
+    <span>🎓 Math Path Scholar</span>
+    <span>🏆 2x President's List</span>
+    <span>💡 CodePath Scholar</span>
+  </div>
+    
+   <button onclick="collaborate()">Let's Build Together!</button>
+
 
 
 🚀 About Me
@@ -87,9 +91,7 @@ Tools & Platforms
 📫 Let's Connect!
 I'm always excited to collaborate on interesting projects or discuss technology, research, and innovation. Feel free to reach out!
 <p align="center">
-  <a href="mailto:ewnetuabigail@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </p>
 
 <div align="center">

@@ -43,7 +43,7 @@
 
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=github_dark)
 
 
 ## 📫 Let's Connect!

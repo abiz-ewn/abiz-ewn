@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-```html
+
 <div class="developer-card">
   <h2>Abigail Ewnetu</h2>
   <span class="badge">CS Student & Researcher</span>
@@ -38,7 +38,6 @@
 💻 Passionate about merging mathematics, AI, and elegant code to solve real-world problems  
 🌱 Currently exploring deep learning, full-stack frameworks, and mathematical modeling
 
----
 
 ## 🛠️ Tech Stack
 
@@ -87,22 +86,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
----
-
-## 🔥 Featured Projects
-
-### 🧠 [Mental Health Support Chatbot](your-repo-link)
-AI-powered chatbot using LangChain & LLaMA3 for empathetic mental health conversations
-- Embedded 1000s of document chunks with HuggingFace models
-- Low-latency semantic search via Chroma DB & Gradio interface
-- Custom prompt engineering for emotional relevance
-
-### 🔐 [Secure Password Generator](your-repo-link)
-Cryptographically secure password generator with customizable options
-- Built with vanilla JavaScript, HTML/CSS
-- Uses `crypto.getRandomValues()` for strong entropy
-- Intuitive UI with one-click copy functionality
 
 ---
 

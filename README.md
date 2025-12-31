@@ -46,12 +46,7 @@
 ![](https://raw.githubusercontent.com/abiz-ewn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 🧠 Top Languages
-
 ![](https://raw.githubusercontent.com/abiz-ewn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 
 ## 📫 Let's Connect!

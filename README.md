@@ -1,4 +1,5 @@
-  # Hi there, I'm Abigail 👋
+<h1 align ="center">Hi👋, I’m Abigail 🙂<br>Welcome to my GitHub space🌟</h1>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+Georgia+State+University;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Scholar" alt="Typing SVG" />
@@ -46,7 +47,6 @@
 </p>
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,13 +69,3 @@ I'm always excited to collaborate on interesting projects or discuss technology,
   </a>
 </p>
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  
-  **⭐ Star some repositories if you like what you see! ⭐**
-  
-</div>

@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+Georgia+State+University;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Scholar" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/abigail-e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
 
 ## 🛠️ Tech Stack
 
@@ -53,6 +48,29 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+![Abiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=dark)
+
+
+
+
+
+## 📊 GitHub Stats
+
+![Abiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=github_dark)
+
+
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&theme=github_dark)
+
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abiz-ewn&theme=github-dark)
+
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak"/>

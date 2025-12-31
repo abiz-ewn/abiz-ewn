@@ -1,6 +1,7 @@
+# Hi there, I'm Abigail 👋
+
 <div align="center">
-  <h3>Hi there, I'm Abigail 👋</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%40+Georgia+State+University;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+Georgia+State+University;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Scholar" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -8,7 +9,7 @@
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -32,6 +33,12 @@
   
   <button onclick="collaborate()">Let's Build Together!</button>
 </div>
+
+
+💻 Passionate about merging mathematics, AI, and elegant code to solve real-world problems  
+🌱 Currently exploring deep learning, full-stack frameworks, and mathematical modeling
+
+
 
 ## 🛠️ Tech Stack
 
@@ -69,6 +76,7 @@
 </p>
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,15 +89,6 @@
 </div>
 
 
-## 🎯 Current Focus
-
-- 🔭 Research in Computer Vision & Behavioral Analysis
-- 🌱 Building full-stack applications with modern frameworks
-- 📚 Deepening knowledge in AI/ML and mathematical modeling
-- 🤝 Open to collaborations on innovative projects
-
-
-
 ## 📫 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or discuss technology, research, and innovation. Feel free to reach out!
@@ -99,6 +98,11 @@ I'm always excited to collaborate on interesting projects or discuss technology,
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
 
 <div align="center">
   

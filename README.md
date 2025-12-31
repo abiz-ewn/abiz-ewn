@@ -48,33 +48,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-![Abiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=dark)
-
-
-
-
-
-## 📊 GitHub Stats
-
-![Abiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiz-ewn&show_icons=true&theme=github_dark)
-
-
-
-## 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiz-ewn&layout=compact&theme=github_dark)
-
-
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abiz-ewn&theme=github-dark)
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 
 ## 📫 Let's Connect!

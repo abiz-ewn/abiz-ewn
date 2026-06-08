@@ -127,7 +127,7 @@ Browser-based password generator with a clean, user-friendly UI. JavaScript powe
 ## 🏅 Awards & Scholarships
 
 - 🎓 **Campus Atlanta 100% Tuition Waiver Scholarship**
-- ⭐ **Math Path Research Scholar** — GSU Merit Recipient
+- ⭐ **Math Path Research Scholar** 
 - 📋 **President's List ×2** — Georgia State University
 - 💻 **CodePath Emerging Engineers Scholar**
 

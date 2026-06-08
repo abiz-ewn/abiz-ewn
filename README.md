@@ -135,7 +135,7 @@ Browser-based password generator with a clean, user-friendly UI. JavaScript powe
 
 ## 📫 Let's Connect
 
-I'm actively seeking **Summer 2027 internships** in software engineering, ML/AI, or research. Open to collaborations on computer vision, full-stack, or bioinformatics projects.
+I am open to collaborations on computer vision, full-stack, or bioinformatics projects.
 
 <div align="center">
   <a href="https://linkedin.com/in/abigail-e/">

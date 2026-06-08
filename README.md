@@ -30,7 +30,7 @@ I'm a rising junior at **Georgia State University** studying Computer Science an
 
 - 🔬 **3 research roles** since Oct 2025 — computer vision, thermal imaging, mathematical modeling
 - 🏆 Campus Atlanta **100% Tuition Waiver** · **Math Path Research Scholar** · **President's List ×2** · **CodePath Emerging Engineers Scholar**
-- 🎓 Presented at the **GSU Undergraduate Research Symposium** (twice)
+- 🎓 Presented at the **GSU Undergraduate Research Symposium** (2x)
 - 💡 I like solving problems at the intersection of hardware, data, and software
 
 ---

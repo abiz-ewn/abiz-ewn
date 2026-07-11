@@ -28,7 +28,7 @@
 
 I'm a rising junior at **Georgia State University** studying Computer Science and Mathematics (GPA: 3.7). I build real systems — from thermal computer vision pipelines to full-stack web apps. Currently an **REU Researcher** in the MORSE Studio Lab, sponsored by FanDuel, where I develop Python/OpenCV pipelines for thermal rodent tracking.
 
-- 🔬 **3 research roles** since Aug 2025 — mathematical modeling, computer vision, thermal imaging
+- 🔬 **3 research roles** since Jun 2025 — mathematical modeling, computer vision, thermal imaging
 - 🏆 Campus Atlanta **100% Tuition Waiver**  · **Math Path Research Scholar**   · **President's List ×2**   · **CodePath Emerging Engineers Scholar**
 - 🎓 Presented at the **GSU Undergraduate Research Symposium** (2x)
 - 💡 I like solving problems at the intersection of hardware, data, and software
